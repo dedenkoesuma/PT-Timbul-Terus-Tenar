@@ -1,0 +1,66 @@
+[31-Oct-2023 02:24:51 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:24:51 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:24:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:24:52 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:24:52 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:24:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:15 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:15 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:17 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:17 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:50 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:50 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:51 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:51 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:54 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:54 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:55 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:55 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:56 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:56 UTC] PHP Warning:  require(/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php): Failed to open stream: No such file or directory in /home/binamuda/public_html/test.onedream.id/index.php on line 34
+[31-Oct-2023 02:30:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/binamuda/public_html/test.onedream.id/../laravel_t3/laravel/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/binamuda/public_html/test.onedream.id/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/binamuda/public_html/test.onedream.id/index.php on line 34
